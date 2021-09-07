@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "recruitment": "papk_reguler",
+    "period": 2021,
+    "version": "1.0.0",
+    "test": {
+      "administrasi": {
+        "id": "administrasi",
+        "name": "Administrasi",
+        "color": "0xff2979ff",
+        "icon": 61075,
+        "progress": 0
+      }
+    },
+    "group": "https://t.me/abdionteam"
+  },
+  "test": {
+    "administrasi": {
+      "code": {
+        "status": {
+          "0": {
+            "name": "Nihil",
+            "description": "Berkas belum dimiliki",
+            "icon": 63026,
+            "color": "0xff3d5afe"
+          },
+          "1": {
+            "name": "Dimiliki",
+            "description": "Berkas sudah dimiliki",
+            "icon": 63027,
+            "color": "0xff1de9b6"
+          },
+          "2": {
+            "name": "Fotokopi",
+            "description": "Berkas sudah di fotokopi",
+            "icon": 63301,
+            "color": "0xffff9100"
+          },
+          "3": {
+            "name": "Legalisir",
+            "description": "Fotokopi sudah di legalisir",
+            "icon": 983214,
+            "color": "0xff651fff"
+          }
+        },
+        "source": {
+          "0": {
+            "name": "Institusi",
+            "description": "Diminta resmi oleh institusi terkait",
+            "icon": 983662,
+            "color": "0xff2979ff"
+          },
+          "1": {
+            "name": "Personal",
+            "description": "Kebutuhan ditambahkan secara personal",
+            "icon": 983153,
+            "color": "0xffbdbdbd"
+          }
+        }
+      },
+      "data": {
+        "akte_lahir": {
+          "_id": "akte_lahir",
+          "name": "Akte Kelahiran",
+          "description": "Bukti sah mengenai status dan peristiwa kelahiran seseorang yang dikeluarkan dinas kependudukan dan catatan sipil.",
+          "channel": "https://t.me/abdionaktelahir",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=CBlXNjBEExI",
+            "https://www.youtube.com/watch?v=SzMXGfZfNjo",
+            "https://www.youtube.com/watch?v=MzM7E9v7DqM",
+            "https://www.youtube.com/watch?v=uuAYLC2dXuc",
+            "https://www.youtube.com/watch?v=jfSUFOGOrkE"
+          ]
+        },
+        "ktp_calon": {
+          "_id": "ktp_calon",
+          "name": "KTP Calon",
+          "description": "Identitas resmi calon sebagai seorang penduduk Negara Kesatuan Republik Indonesia",
+          "channel": "https://t.me/abdionktpcalon",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=I_affAxsOu0",
+            "https://www.youtube.com/watch?v=xl5cKiE3vK0",
+            "https://www.youtube.com/watch?v=HjmJF5Bt9GA",
+            "https://www.youtube.com/watch?v=mkZWYqyyeQU",
+            "https://www.youtube.com/watch?v=LmHutSXmG6g"
+          ]
+        },
+        "ktp_wali": {
+          "_id": "ktp_wali",
+          "name": "KTP Orang Tua Calon / Wali",
+          "description": "Identitas resmi orang tua (Ayah dan Ibu) atau wali calon sebagai seorang penduduk Negara Kesatuan Republik Indonesia",
+          "channel": "https://t.me/abdionktpwali",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=I_affAxsOu0",
+            "https://www.youtube.com/watch?v=xl5cKiE3vK0",
+            "https://www.youtube.com/watch?v=HjmJF5Bt9GA",
+            "https://www.youtube.com/watch?v=mkZWYqyyeQU",
+            "https://www.youtube.com/watch?v=LmHutSXmG6g"
+          ]
+        },
+        "kartu_keluarga": {
+          "_id": "kartu_keluarga",
+          "name": "Kartu Keluarga",
+          "description": "Kartu identitas keluarga yang memuat data tentang susunan, hubungan dan jumlah anggota keluarga.",
+          "channel": "https://t.me/abdionkartukeluarga",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=sk41XHUWsF4",
+            "https://www.youtube.com/watch?v=vOHuSBvFIY0",
+            "https://www.youtube.com/watch?v=qOaJqYcx09s",
+            "https://www.youtube.com/watch?v=T7SCp23CW0Y",
+            "https://www.youtube.com/watch?v=6PtjYuAmAGI"
+          ]
+        },
+        "skck": {
+          "_id": "skck",
+          "name": "SKCK",
+          "description": "Surat keterangan yang diterbitkan oleh Polri yang berisikan catatan kejahatan seseorang.",
+          "channel": "https://t.me/abdionskck",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=8BUva6qINIM",
+            "https://www.youtube.com/watch?v=KCX6Ajc7-Vw",
+            "https://www.youtube.com/watch?v=GYHx2Epmgmw",
+            "https://www.youtube.com/watch?v=RW3L6PPlIcU",
+            "https://www.youtube.com/watch?v=7KWOAZtuO9Q"
+          ]
+        },
+        "skbd": {
+          "_id": "skbd",
+          "name": "SKBD",
+          "description": "Surat Keterangan Bersih Diri (SKBD) merupakan surat keterangan yang isinya menyatakan bahwa yang bersangkutan atau nama-nama yang tersebut dalam daftar berkelakuan baik, tidak terlibat G-30S PKI atau organisasi terlarang lainnya dan tidak pernah tersangkut perkara Pidana dan atau Perdata.",
+          "channel": "https://t.me/abdionskbd",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=KbPRWI1s4pY",
+            "https://www.youtube.com/watch?v=jRF8pF-8nnc",
+            "https://www.youtube.com/watch?v=MbYrDGcKa4s",
+            "https://www.youtube.com/watch?v=XJdg1DqnDo8",
+            "https://www.youtube.com/watch?v=NEEzUdIPq04"
+          ]
+        },
+        "ijazah_sd": {
+          "_id": "ijazah_sd",
+          "name": "Ijazah SD",
+          "description": "Surat tanda tamat belajar sekolah dasar (SD).",
+          "channel": "https://t.me/abdionijazahsd",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
+            "https://www.youtube.com/watch?v=nEXhGrStlBo",
+            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
+          ]
+        },
+        "ijazah_smp": {
+          "_id": "ijazah_smp",
+          "name": "Ijazah SMP",
+          "description": "Surat tanda tamat belajar sekolah menengah pertama (SMP)",
+          "channel": "https://t.me/abdionijazahsmp",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
+            "https://www.youtube.com/watch?v=nEXhGrStlBo",
+            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
+          ]
+        },
+        "ijazah_sma": {
+          "_id": "ijazah_sma",
+          "name": "Ijazah SMA",
+          "description": "Surat tanda tamat belajar sekolah menengah atas (SMA)",
+          "channel": "https://t.me/abdionijazahsma",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
+            "https://www.youtube.com/watch?v=nEXhGrStlBo",
+            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
+          ]
+        },
+        "skhun_sd": {
+          "_id": "skhun_sd",
+          "name": "SKHUN SD",
+          "description": "Surat keterangan hasil ujian nasional sekolah dasar (SD).",
+          "channel": "https://t.me/abdionskhunsd",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=-HAnpuO0MIs",
+            "https://www.youtube.com/watch?v=L31LGsJb54s",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=fkBgPnUJ-bM",
+            "https://www.youtube.com/watch?v=-1lkXby6tmQ"
+          ]
+        },
+        "skhun_smp": {
+          "_id": "skhun_smp",
+          "name": "SKHUN SMP",
+          "description": "Surat keterangan hasil ujian nasional sekolah menengah pertama (SMP)",
+          "channel": "https://t.me/abdionskhunsmp",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=-HAnpuO0MIs",
+            "https://www.youtube.com/watch?v=L31LGsJb54s",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=fkBgPnUJ-bM",
+            "https://www.youtube.com/watch?v=-1lkXby6tmQ"
+          ]
+        },
+        "skhun_sma": {
+          "_id": "skhun_sma",
+          "name": "SKHUN SMA",
+          "description": "Surat keterangan hasil ujian nasional sekolah menengah atas (SMA)",
+          "channel": "https://t.me/abdionskhunsma",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=-HAnpuO0MIs",
+            "https://www.youtube.com/watch?v=L31LGsJb54s",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=fkBgPnUJ-bM",
+            "https://www.youtube.com/watch?v=-1lkXby6tmQ"
+          ]
+        },
+        "rapor_sma": {
+          "_id": "rapor_sma",
+          "name": "Rapor SMA",
+          "description": "Buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah menengah atas",
+          "channel": "https://t.me/abdionraporsma",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=FSn5DoTOpfA",
+            "https://www.youtube.com/watch?v=yiF3jCfJ6wU"
+          ]
+        },
+        "akreditasi_kampus": {
+          "_id": "akreditasi_kampus",
+          "name": "Akreditasi Perguruan Tinggi",
+          "description": "Bentuk pengakuan dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) terhadap perguruan tinggi calon",
+          "channel": "https://t.me/abdionakreditasikampus",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=YcJUx-KqNQs"
+          ]
+        },
+        "akreditasi_prodi": {
+          "_id": "akreditasi_prodi",
+          "name": "Akreditasi Program Studi",
+          "description": "Bentuk pengakuan dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) terhadap program studi calon saat di perguruan tinggi",
+          "channel": "https://t.me/abdionakreditasiprodi",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=YcJUx-KqNQs"
+          ]
+        },
+        "pas_foto_hitam_putih": {
+          "_id": "pas_foto_hitam_putih",
+          "name": "Pas Foto Hitam Putih",
+          "description": "Foto kecil dari kepala sampai dada, dengan warna Hitam / Putih (jumlah: 20)",
+          "channel": "https://t.me/abdionpasfotohitamputih",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ]
+        },
+        "pas_foto_warna": {
+          "_id": "pas_foto_warna",
+          "name": "Pas Foto Berwarna",
+          "description": "Foto kecil dari kepala sampai dada, dengan warna background merah (jumlah: 20)",
+          "channel": "https://t.me/abdionpasfotowarna",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ]
+        },
+        "formulir": {
+          "_id": "formulir",
+          "name": "Formulir",
+          "description": "Formulir permohonan yang sudah diisi.",
+          "channel": "https://t.me/abdionformulir",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ]
+        }
+      }
+    }
+  },
+  "tasks": {
+    "colors": [
+      "0xff2979ff",
+      "0xff00e676",
+      "0xffff9100",
+      "0xffff1744",
+      "0xff424242"
+    ],
+    "data": {}
+  },
+  "contact_us": {
+    "email": {
+      "name": "abdion.official@gmail.com",
+      "url": ""
+    },
+    "instagram": {
+      "name": "@abdion.official",
+      "url": "https://instagram.com/abdion.official"
+    },
+    "telegram": {
+      "name": "@abdionteam",
+      "url": "https://t.me/abdionteam"
+    }
+  }
+}
