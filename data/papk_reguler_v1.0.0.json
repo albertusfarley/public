@@ -102,36 +102,11 @@
           ],
           "additionals": [
             {
-              "subtitle": "Syarat",
+              "subtitle": "Informasi",
               "data": [
                 {
-                  "title": "",
-                  "subtitle": "• Berusia 17 tahun"
-                },
-                {
-                  "title": "",
-                  "subtitle": "• Surat pengantar dari pihak Rukun Tetangga (RT) dan Rukun Warga (RW)"
-                },
-                {
-                  "title": "",
-                  "subtitle": "• Fotokopi Kartu Keluarga (KK)"
-                }
-              ]
-            },
-            {
-              "title": "Prosedur",
-              "data": [
-                {
-                  "title": "",
-                  "subtitle": "1. Mendatangi Kantor Kelurahan "
-                },
-                {
-                  "title": "",
-                  "subtitle": "2. Menyerahkan Dokumen "
-                },
-                {
-                  "title": "",
-                  "subtitle": "3. Pengambilan Foto dan Sidik Jari "
+                  "title": "Syarat",
+                  "subtitle": "• Berusia 17 tahun\n• Surat pengantar dari pihak Rukun Tetangga (RT) dan Rukun Warga (RW)\n• Fotokopi Kartu Keluarga (KK)"
                 }
               ]
             }
@@ -156,42 +131,6 @@
             "https://www.youtube.com/watch?v=HjmJF5Bt9GA",
             "https://www.youtube.com/watch?v=mkZWYqyyeQU",
             "https://www.youtube.com/watch?v=LmHutSXmG6g"
-          ],
-"additionals": [
-            {
-              "subtitle": "Syarat",
-              "data": [
-                {
-                  "title": "",
-                  "subtitle": "• Berusia 17 tahun"
-                },
-                {
-                  "title": "",
-                  "subtitle": "• Surat pengantar dari pihak Rukun Tetangga (RT) dan Rukun Warga (RW)"
-                },
-                {
-                  "title": "",
-                  "subtitle": "• Fotokopi Kartu Keluarga (KK)"
-                }
-              ]
-            },
-            {
-              "title": "Prosedur",
-              "data": [
-                {
-                  "title": "",
-                  "subtitle": "1. Mendatangi Kantor Kelurahan "
-                },
-                {
-                  "title": "",
-                  "subtitle": "2. Menyerahkan Dokumen "
-                },
-                {
-                  "title": "",
-                  "subtitle": "3. Pengambilan Foto dan Sidik Jari "
-                }
-              ]
-            }
           ]
         },
         "kartu_keluarga": {
