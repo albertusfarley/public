@@ -63,7 +63,6 @@
           "_id": "akte_lahir",
           "name": "Akte Kelahiran",
           "description": "Bukti sah mengenai status dan peristiwa kelahiran seseorang yang dikeluarkan dinas kependudukan dan catatan sipil.",
-          "channel": "https://t.me/abdionaktelahir",
           "source": "0",
           "status": "0",
           "steps": [
@@ -84,7 +83,6 @@
           "_id": "ktp_calon",
           "name": "KTP Calon",
           "description": "Identitas resmi calon sebagai seorang penduduk Negara Kesatuan Republik Indonesia",
-          "channel": "https://t.me/abdionktpcalon",
           "source": "0",
           "status": "0",
           "steps": [
@@ -120,7 +118,6 @@
           "_id": "ktp_wali",
           "name": "KTP Orang Tua Calon / Wali",
           "description": "Identitas resmi orang tua (Ayah dan Ibu) atau wali calon sebagai seorang penduduk Negara Kesatuan Republik Indonesia",
-          "channel": "https://t.me/abdionktpwali",
           "source": "0",
           "status": "0",
           "steps": [
@@ -128,6 +125,21 @@
             "1",
             "2",
             "3"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Syarat",
+                  "subtitle": "• Berusia 17 tahun\n• Surat pengantar dari pihak RT dan RW\n• Fotokopi Kartu Keluarga (KK)"
+                },
+                {
+                  "title": "Prosedur",
+                  "subtitle": "1. Mendatangi Kantor Kelurahan\n2. Menyerahkan Dokumen (KK asli dan fotokopi)\n3. Pengambilan Foto dan Sidik Jari"
+                }
+              ]
+            }
           ],
           "video_urls": [
             "https://www.youtube.com/watch?v=I_affAxsOu0",
@@ -141,7 +153,6 @@
           "_id": "kartu_keluarga",
           "name": "Kartu Keluarga",
           "description": "Kartu identitas keluarga yang memuat data tentang susunan, hubungan dan jumlah anggota keluarga.",
-          "channel": "https://t.me/abdionkartukeluarga",
           "source": "0",
           "status": "0",
           "steps": [
@@ -162,7 +173,6 @@
           "_id": "skck",
           "name": "SKCK",
           "description": "Surat keterangan yang diterbitkan oleh Polri yang berisikan catatan kejahatan seseorang.",
-          "channel": "https://t.me/abdionskck",
           "source": "0",
           "status": "0",
           "steps": [
@@ -183,7 +193,6 @@
           "_id": "skbd",
           "name": "SKBD",
           "description": "Surat Keterangan Bersih Diri (SKBD) merupakan surat keterangan yang isinya menyatakan bahwa yang bersangkutan atau nama-nama yang tersebut dalam daftar berkelakuan baik, tidak terlibat G-30S PKI atau organisasi terlarang lainnya dan tidak pernah tersangkut perkara Pidana dan atau Perdata.",
-          "channel": "https://t.me/abdionskbd",
           "source": "0",
           "status": "0",
           "steps": [
@@ -202,7 +211,6 @@
           "_id": "ijazah_sd",
           "name": "Ijazah SD",
           "description": "Surat tanda tamat belajar sekolah dasar (SD).",
-          "channel": "https://t.me/abdionijazahsd",
           "source": "0",
           "status": "0",
           "steps": [
@@ -223,7 +231,6 @@
           "_id": "skhun_sd",
           "name": "SKHUN SD",
           "description": "Surat keterangan hasil ujian nasional sekolah dasar (SD).",
-          "channel": "https://t.me/abdionskhunsd",
           "source": "0",
           "status": "0",
           "steps": [
@@ -244,7 +251,6 @@
           "_id": "ijazah_smp",
           "name": "Ijazah SMP",
           "description": "Surat tanda tamat belajar sekolah menengah pertama (SMP)",
-          "channel": "https://t.me/abdionijazahsmp",
           "source": "0",
           "status": "0",
           "steps": [
@@ -265,7 +271,6 @@
           "_id": "skhun_smp",
           "name": "SKHUN SMP",
           "description": "Surat keterangan hasil ujian nasional sekolah menengah pertama (SMP)",
-          "channel": "https://t.me/abdionskhunsmp",
           "source": "0",
           "status": "0",
           "steps": [
@@ -286,7 +291,6 @@
           "_id": "ijazah_sma",
           "name": "Ijazah SMA",
           "description": "Surat tanda tamat belajar sekolah menengah atas (SMA)",
-          "channel": "https://t.me/abdionijazahsma",
           "source": "0",
           "status": "0",
           "steps": [
@@ -307,7 +311,6 @@
           "_id": "skhun_sma",
           "name": "SKHUN SMA",
           "description": "Surat keterangan hasil ujian nasional sekolah menengah atas (SMA)",
-          "channel": "https://t.me/abdionskhunsma",
           "source": "0",
           "status": "0",
           "steps": [
@@ -328,7 +331,6 @@
           "_id": "rapor_sma",
           "name": "Rapor SMA",
           "description": "Buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah menengah atas",
-          "channel": "https://t.me/abdionraporsma",
           "source": "0",
           "status": "0",
           "steps": [
@@ -346,7 +348,6 @@
           "_id": "ijazah_kesarjanaan",
           "name": "Ijazah Kesarjanaan atau Diploma",
           "description": "Sertifikat pengakuan atas prestasi belajar dan kelulusan mahasiswa dari universitas",
-          "channel": "https://t.me/abdionijazahkesarjanaan",
           "source": "0",
           "status": "0",
           "steps": [
@@ -360,7 +361,6 @@
           "_id": "akreditasi_prodi",
           "name": "Akreditasi Program Studi",
           "description": "Bentuk pengakuan dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) terhadap program studi calon saat di perguruan tinggi",
-          "channel": "https://t.me/abdionakreditasiprodi",
           "source": "0",
           "status": "0",
           "steps": [
@@ -377,7 +377,6 @@
           "_id": "pas_foto_hitam_putih",
           "name": "Pas Foto Hitam Putih",
           "description": "Foto kecil dari kepala sampai dada, dengan warna Hitam / Putih (jumlah: 20)",
-          "channel": "https://t.me/abdionpasfotohitamputih",
           "source": "0",
           "status": "0",
           "steps": [
@@ -389,7 +388,6 @@
           "_id": "pas_foto_warna",
           "name": "Pas Foto Berwarna",
           "description": "Foto kecil dari kepala sampai dada, dengan warna background merah (jumlah: 20)",
-          "channel": "https://t.me/abdionpasfotowarna",
           "source": "0",
           "status": "0",
           "steps": [
@@ -401,7 +399,6 @@
           "_id": "formulir",
           "name": "Formulir",
           "description": "Formulir permohonan yang sudah diisi.",
-          "channel": "https://t.me/abdionformulir",
           "source": "0",
           "status": "0",
           "steps": [
@@ -413,7 +410,6 @@
           "_id": "surat_bebas_covid",
           "name": "Surat Bebas Covid-19",
           "description": "Surat keterangan yang menyatakan bahwa anda bebas dari Covid-19",
-          "channel": "https://t.me/abdionsuratbebascovid",
           "source": "0",
           "status": "0",
           "steps": [
@@ -425,7 +421,6 @@
           "_id": "sertifikat_vaksin_covid",
           "name": "Sertifikat Vaksin Covid-19",
           "description": "Sertifikat yang diberikan kepada anda setelah melakukan vaksin Covid-19",
-          "channel": "https://t.me/abdionsertifikatvaksincovid",
           "source": "0",
           "status": "0",
           "steps": [
