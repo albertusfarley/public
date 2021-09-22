@@ -72,6 +72,17 @@
             "2",
             "3"
           ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Kehilangan",
+                  "subtitle": "1. Membuat Surat Kehilangan dari kepolisian\n2. Fotokopi Kartu Keluarga\n3. Fotokopi KTP\n4. Fotokopi Akte kelahiran yang hilang (Bila ada)\n5. Mengurus kehilangan berkas di Dukcapil dengan membawa berkas diatas"
+                }
+              ]
+            }
+          ],
           "video_urls": [
             "https://www.youtube.com/watch?v=CBlXNjBEExI",
             "https://www.youtube.com/watch?v=SzMXGfZfNjo",
