@@ -257,6 +257,30 @@
             "0",
             "1"
           ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Syarat",
+                  "subtitle": "• Tidak ada anggota keluarga yang terlibat G-30S PKI\n• Surat pengantar dari Kodim untuk penerbitan SKBD\n• KTP asli dan fotokopi\n• KTP orang tua (ayah dan ibu) asli dan fotokopi\n• Kartu Keluarga asli dan fotokopi\n• Pas Foto berukuran 3x4 cm (3 lembar)\n• Pas Foto orang tua (ayah dan ibu) berukuran 3x4 cm (3 lembar)"
+                },
+                {
+                  "title": "Instansi",
+                  "subtitle": "Koramil"
+                }
+              ]
+            },
+            {
+              "title": "Tambahan",
+              "data": [
+                {
+                  "title": "Tips",
+                  "subtitle": "• Untuk mendapatkan surat pengantar dari kodim, cobalah datang langsung ke kodim setempat dan ajukan pembuatan SKBD untuk keperluan pendaftaran\n\n• Persiapkan data nama, tempat dan tanggal lahir, alamat, agama, pekerjaan sebelum dan sesudah tahun 1965 (bila ada) seluruh anggota keluarga dimulai dari kedua kakek dan nenek, saudara kandung ayah dan saudara kandung ibu, dan saudara kandung anda"
+                },
+              ]
+            }
+          ],
           "video_urls": [
             "https://www.youtube.com/watch?v=KbPRWI1s4pY",
             "https://www.youtube.com/watch?v=jRF8pF-8nnc",
