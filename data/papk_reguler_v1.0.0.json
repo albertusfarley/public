@@ -204,48 +204,6 @@
             "https://www.youtube.com/watch?v=hh3wrAZrmYI"
           ]
         },
-        "ijazah_smp": {
-          "_id": "ijazah_smp",
-          "name": "Ijazah SMP",
-          "description": "Surat tanda tamat belajar sekolah menengah pertama (SMP)",
-          "channel": "https://t.me/abdionijazahsmp",
-          "source": "0",
-          "status": "0",
-          "steps": [
-            "0",
-            "1",
-            "2",
-            "3"
-          ],
-          "video_urls": [
-            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
-            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
-            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
-            "https://www.youtube.com/watch?v=nEXhGrStlBo",
-            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
-          ]
-        },
-        "ijazah_sma": {
-          "_id": "ijazah_sma",
-          "name": "Ijazah SMA",
-          "description": "Surat tanda tamat belajar sekolah menengah atas (SMA)",
-          "channel": "https://t.me/abdionijazahsma",
-          "source": "0",
-          "status": "0",
-          "steps": [
-            "0",
-            "1",
-            "2",
-            "3"
-          ],
-          "video_urls": [
-            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
-            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
-            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
-            "https://www.youtube.com/watch?v=nEXhGrStlBo",
-            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
-          ]
-        },
         "skhun_sd": {
           "_id": "skhun_sd",
           "name": "SKHUN SD",
@@ -267,6 +225,27 @@
             "https://www.youtube.com/watch?v=-1lkXby6tmQ"
           ]
         },
+        "ijazah_smp": {
+          "_id": "ijazah_smp",
+          "name": "Ijazah SMP",
+          "description": "Surat tanda tamat belajar sekolah menengah pertama (SMP)",
+          "channel": "https://t.me/abdionijazahsmp",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
+            "https://www.youtube.com/watch?v=nEXhGrStlBo",
+            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
+          ]
+        },
         "skhun_smp": {
           "_id": "skhun_smp",
           "name": "SKHUN SMP",
@@ -286,6 +265,27 @@
             "https://www.youtube.com/watch?v=x_9oNx0GiUs",
             "https://www.youtube.com/watch?v=fkBgPnUJ-bM",
             "https://www.youtube.com/watch?v=-1lkXby6tmQ"
+          ]
+        },
+        "ijazah_sma": {
+          "_id": "ijazah_sma",
+          "name": "Ijazah SMA",
+          "description": "Surat tanda tamat belajar sekolah menengah atas (SMA)",
+          "channel": "https://t.me/abdionijazahsma",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "video_urls": [
+            "https://www.youtube.com/watch?v=jDBsUV8ldtg",
+            "https://www.youtube.com/watch?v=x_9oNx0GiUs",
+            "https://www.youtube.com/watch?v=bBhbAIjBOkQ",
+            "https://www.youtube.com/watch?v=nEXhGrStlBo",
+            "https://www.youtube.com/watch?v=hh3wrAZrmYI"
           ]
         },
         "skhun_sma": {
@@ -327,11 +327,11 @@
             "https://www.youtube.com/watch?v=yiF3jCfJ6wU"
           ]
         },
-        "akreditasi_kampus": {
-          "_id": "akreditasi_kampus",
-          "name": "Akreditasi Perguruan Tinggi",
-          "description": "Bentuk pengakuan dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) terhadap perguruan tinggi calon",
-          "channel": "https://t.me/abdionakreditasikampus",
+        "ijazah_kesarjanaan": {
+          "_id": "ijazah_kesarjanaan",
+          "name": "Ijazah Kesarjanaan atau Diploma",
+          "description": "Sertifikat pengakuan atas prestasi belajar dan kelulusan mahasiswa dari universitas",
+          "channel": "https://t.me/abdionijazahkesarjanaan",
           "source": "0",
           "status": "0",
           "steps": [
@@ -339,9 +339,6 @@
             "1",
             "2",
             "3"
-          ],
-          "video_urls": [
-            "https://www.youtube.com/watch?v=YcJUx-KqNQs"
           ]
         },
         "akreditasi_prodi": {
@@ -390,6 +387,30 @@
           "name": "Formulir",
           "description": "Formulir permohonan yang sudah diisi.",
           "channel": "https://t.me/abdionformulir",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ]
+        },
+        "surat_bebas_covid": {
+          "_id": "surat_bebas_covid",
+          "name": "Surat Bebas Covid-19",
+          "description": "Surat keterangan yang menyatakan bahwa anda bebas dari Covid-19",
+          "channel": "https://t.me/abdionsuratbebascovid",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ]
+        },
+        "sertifikat_vaksin_covid": {
+          "_id": "sertifikat_vaksin_covid",
+          "name": "Sertifikat Vaksin Covid-19",
+          "description": "Sertifikat yang diberikan kepada anda setelah melakukan vaksin Covid-19",
+          "channel": "https://t.me/abdionsertifikatvaksincovid",
           "source": "0",
           "status": "0",
           "steps": [
