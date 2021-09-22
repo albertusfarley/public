@@ -78,7 +78,11 @@
               "data": [
                 {
                   "title": "Kehilangan",
-                  "subtitle": "1. Membuat Surat Kehilangan dari kepolisian\n2. Fotokopi Kartu Keluarga\n3. Fotokopi KTP\n4. Fotokopi Akte kelahiran yang hilang (Bila ada)\n5. Mengurus kehilangan berkas di Dukcapil dengan membawa berkas diatas"
+                  "subtitle": "1. Membuat Surat Kehilangan dari kepolisian\n2. Fotokopi Kartu Keluarga\n3. Fotokopi KTP\n4. Fotokopi Akte kelahiran yang hilang (Bila ada)"
+                },
+                {
+                  "title": "Instansi",
+                  "subtitle": "Dukcapil"
                 }
               ]
             }
@@ -113,8 +117,8 @@
                   "subtitle": "• Berusia 17 tahun\n• Surat pengantar dari pihak RT dan RW\n• Fotokopi Kartu Keluarga (KK)"
                 },
                 {
-                  "title": "Prosedur",
-                  "subtitle": "1. Mendatangi Kantor Kelurahan\n2. Menyerahkan KK asli dan Fotokopi\n3. Pengambilan Foto dan Sidik Jari"
+                  "title": "Instansi",
+                  "subtitle": "Kelurahan"
                 }
               ]
             }
@@ -149,8 +153,8 @@
                   "subtitle": "• Berusia 17 tahun\n• Surat pengantar dari pihak RT dan RW\n• Fotokopi Kartu Keluarga (KK)"
                 },
                 {
-                  "title": "Prosedur",
-                  "subtitle": "1. Mendatangi Kantor Kelurahan\n2. Menyerahkan KK asli dan Fotokopi\n3. Pengambilan Foto dan Sidik Jari"
+                  "title": "Instansi",
+                  "subtitle": "Kelurahan"
                 }
               ]
             }
@@ -196,6 +200,43 @@
             "1",
             "2",
             "3"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Syarat",
+                  "subtitle": "• Fotokopi KTP\n• Fotokopi Paspor (Bila ada)\n• Fotokopi Kartu Keluarga (KK)\n• Pas foto berwarna ukuran 4 x 6 cm (6 lembar) dengan latar belakang merah dan berpakaian sopan berkerah"
+                },
+                {
+                  "title": "Masa berlaku",
+                  "subtitle": "6 Bulan"
+                },
+                {
+                  "title": "Instansi",
+                  "subtitle": "Polres"
+                }
+              ]
+            },
+            {
+              "title": "Biaya",
+              "data": [
+                {
+                  "title": "Penerbitan (PP no.60 Tahun 2016)",
+                  "subtitle": "Rp. 30.000,-"
+                }
+              ]
+            },
+            {
+              "title": "Tambahan",
+              "data": [
+                {
+                  "title": "Tips",
+                  "subtitle": "• Ketika mengisi formulir, isi kolom 'Keperluan' dengan 'Melamar sebagai anggota TNI'\n• Setelah SKCK terbit, segera fotokopi (beberapa lembar) dan legalisir"
+                }
+              ]
+            }
           ],
           "video_urls": [
             "https://www.youtube.com/watch?v=8BUva6qINIM",
