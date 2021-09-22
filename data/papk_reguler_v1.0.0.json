@@ -460,6 +460,17 @@
             "2",
             "3"
           ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Instansi",
+                  "subtitle": "Universitas (sekertariat)"
+                }
+              ]
+            }
+          ],
           "video_urls": [
             "https://www.youtube.com/watch?v=YcJUx-KqNQs"
           ]
@@ -498,6 +509,17 @@
           "steps": [
             "0",
             "1"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Prosedur",
+                  "subtitle": "1. Lakukan Pendaftaran di website resmi recruitment TNI\n2. Isi formulir\n3. Cetak Formulir"
+                }
+              ]
+            }
           ]
         },
         "surat_bebas_covid": {
@@ -510,6 +532,17 @@
           "steps": [
             "0",
             "1"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Prosedur",
+                  "subtitle": "1. Persiapkan KTP\n2. Datang ke dinas kesehatan setempat (Rumah Sakit/Puskesmas/Klink) yang menyediakan layanan Rapid Test / Swab Test\n3. Lakukan Rapid Test / Swab Test\n4. Jika hasil negatif, maka Surat Bebas Covid-19 akan diberikan"
+                }
+              ]
+            }
           ]
         },
         "sertifikat_vaksin_covid": {
@@ -522,6 +555,21 @@
           "steps": [
             "0",
             "1"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Syarat",
+                  "subtitle": "Sudah melakukan vaksin Covid-19"
+                },
+                {
+                  "title": "Prosedur",
+                  "subtitle": "Unduh dan cetak sertifikat vaksin Covid-19 dari aplikasi PeduliLindungi"
+                }
+              ]
+            }
           ]
         }
       }
