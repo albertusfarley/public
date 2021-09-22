@@ -93,6 +93,31 @@
             "2",
             "3"
           ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Syarat",
+                  "subtitle": "• Berusia 17 tahun\n• Surat pengantar dari pihak Rukun Tetangga (RT) dan Rukun Warga (RW)\n• Fotokopi Kartu Keluarga (KK)"
+                }
+              ]
+            },
+            {
+              "title": "Prosedur",
+              "data": [
+                {
+                  "title": "1. Mendatangi Kantor Kelurahan "
+                },
+                {
+                  "title": "2. Menyerahkan Dokumen "
+                },
+                {
+                  "title": "3. Pengambilan Foto dan Sidik Jari "
+                }
+              ]
+            }
+          ],
           "video_urls": [
             "https://www.youtube.com/watch?v=I_affAxsOu0",
             "https://www.youtube.com/watch?v=xl5cKiE3vK0",
