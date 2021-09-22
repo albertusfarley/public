@@ -63,7 +63,7 @@
           "_id": "akte_lahir",
           "name": "Akte Kelahiran",
           "description": "Bukti sah mengenai status dan peristiwa kelahiran seseorang yang dikeluarkan dinas kependudukan dan catatan sipil.",
-          "channel": "https://t.me/abdionaktelahir",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -99,7 +99,7 @@
           "_id": "ktp_calon",
           "name": "KTP Calon",
           "description": "Identitas resmi calon sebagai seorang penduduk Negara Kesatuan Republik Indonesia",
-          "channel": "https://t.me/abdionktpcalon",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -135,7 +135,7 @@
           "_id": "ktp_wali",
           "name": "KTP Orang Tua Calon / Wali",
           "description": "Identitas resmi orang tua (Ayah dan Ibu) atau wali calon sebagai seorang penduduk Negara Kesatuan Republik Indonesia",
-          "channel": "https://t.me/abdionktpwali",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -171,7 +171,7 @@
           "_id": "kartu_keluarga",
           "name": "Kartu Keluarga",
           "description": "Kartu identitas keluarga yang memuat data tentang susunan, hubungan dan jumlah anggota keluarga.",
-          "channel": "https://t.me/abdionkartukeluarga",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -192,7 +192,7 @@
           "_id": "skck",
           "name": "SKCK",
           "description": "Surat keterangan yang diterbitkan oleh Polri yang berisikan catatan kejahatan seseorang.",
-          "channel": "https://t.me/abdionskck",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -210,12 +210,12 @@
                   "subtitle": "• Fotokopi KTP\n• Fotokopi Paspor (Bila ada)\n• Fotokopi Kartu Keluarga (KK)\n• Pas foto berwarna ukuran 4 x 6 cm (6 lembar) dengan latar belakang merah dan berpakaian sopan berkerah"
                 },
                 {
-                  "title": "Masa berlaku",
-                  "subtitle": "6 Bulan"
-                },
-                {
                   "title": "Instansi",
                   "subtitle": "Polres"
+                },
+                {
+                  "title": "Masa berlaku",
+                  "subtitle": "6 Bulan"
                 }
               ]
             },
@@ -250,7 +250,7 @@
           "_id": "skbd",
           "name": "SKBD",
           "description": "Surat Keterangan Bersih Diri (SKBD) merupakan surat keterangan yang isinya menyatakan bahwa yang bersangkutan atau nama-nama yang tersebut dalam daftar berkelakuan baik, tidak terlibat G-30S PKI atau organisasi terlarang lainnya dan tidak pernah tersangkut perkara Pidana dan atau Perdata.",
-          "channel": "https://t.me/abdionskbd",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -293,7 +293,7 @@
           "_id": "ijazah_sd",
           "name": "Ijazah SD",
           "description": "Surat tanda tamat belajar sekolah dasar (SD).",
-          "channel": "https://t.me/abdionijazahsd",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -314,7 +314,7 @@
           "_id": "skhun_sd",
           "name": "SKHUN SD",
           "description": "Surat keterangan hasil ujian nasional sekolah dasar (SD).",
-          "channel": "https://t.me/abdionskhunsd",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -335,7 +335,7 @@
           "_id": "ijazah_smp",
           "name": "Ijazah SMP",
           "description": "Surat tanda tamat belajar sekolah menengah pertama (SMP)",
-          "channel": "https://t.me/abdionijazahsmp",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -356,7 +356,7 @@
           "_id": "skhun_smp",
           "name": "SKHUN SMP",
           "description": "Surat keterangan hasil ujian nasional sekolah menengah pertama (SMP)",
-          "channel": "https://t.me/abdionskhunsmp",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -377,7 +377,7 @@
           "_id": "ijazah_sma",
           "name": "Ijazah SMA",
           "description": "Surat tanda tamat belajar sekolah menengah atas (SMA)",
-          "channel": "https://t.me/abdionijazahsma",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -398,7 +398,7 @@
           "_id": "skhun_sma",
           "name": "SKHUN SMA",
           "description": "Surat keterangan hasil ujian nasional sekolah menengah atas (SMA)",
-          "channel": "https://t.me/abdionskhunsma",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -419,7 +419,7 @@
           "_id": "rapor_sma",
           "name": "Rapor SMA",
           "description": "Buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah menengah atas",
-          "channel": "https://t.me/abdionraporsma",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -437,7 +437,7 @@
           "_id": "ijazah_kesarjanaan",
           "name": "Ijazah Kesarjanaan atau Diploma",
           "description": "Sertifikat pengakuan atas prestasi belajar dan kelulusan mahasiswa dari universitas",
-          "channel": "https://t.me/abdionijazahkesarjanaan",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -451,7 +451,7 @@
           "_id": "akreditasi_prodi",
           "name": "Akreditasi Program Studi",
           "description": "Bentuk pengakuan dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) terhadap program studi calon saat di perguruan tinggi",
-          "channel": "https://t.me/abdionakreditasiprodi",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -475,35 +475,73 @@
             "https://www.youtube.com/watch?v=YcJUx-KqNQs"
           ]
         },
-        "pas_foto_hitam_putih": {
-          "_id": "pas_foto_hitam_putih",
-          "name": "Pas Foto Hitam Putih",
-          "description": "Foto kecil dari kepala sampai dada, dengan warna Hitam / Putih (jumlah: 20)",
-          "channel": "https://t.me/abdionpasfotohitamputih",
-          "source": "0",
-          "status": "0",
-          "steps": [
-            "0",
-            "1"
-          ]
-        },
         "pas_foto_warna": {
           "_id": "pas_foto_warna",
           "name": "Pas Foto Berwarna",
           "description": "Foto kecil dari kepala sampai dada, dengan warna background merah (jumlah: 20)",
-          "channel": "https://t.me/abdionpasfotowarna",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
             "0",
             "1"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Ukuran",
+                  "subtitle": "4x6 cm"
+                },
+                {
+                  "title": "Jumlah",
+                  "subtitle": "20 Lembar"
+                },
+                {
+                  "title": "Catatan",
+                  "subtitle": "• Berpakaian sopan dan berkerah\n• Tidak menggunakan aksesoris wajah (termasuk kacamata)\n• Tampak muka secara utuh"
+                }
+              ]
+            }
+          ]
+        },
+        "pas_foto_hitam_putih": {
+          "_id": "pas_foto_hitam_putih",
+          "name": "Pas Foto Hitam Putih",
+          "description": "Foto kecil dari kepala sampai dada, dengan warna Hitam / Putih",
+          "channel": "https://t.me/abdionteam",
+          "source": "0",
+          "status": "0",
+          "steps": [
+            "0",
+            "1"
+          ],
+          "additionals": [
+            {
+              "title": "Informasi",
+              "data": [
+                {
+                  "title": "Ukuran",
+                  "subtitle": "4x6 cm"
+                },
+                {
+                  "title": "Jumlah",
+                  "subtitle": "20 Lembar"
+                },
+                {
+                  "title": "Catatan",
+                  "subtitle": "• Berpakaian sopan dan berkerah\n• Tidak menggunakan aksesoris wajah (termasuk kacamata)\n• Tampak muka secara utuh"
+                }
+              ]
+            }
           ]
         },
         "formulir": {
           "_id": "formulir",
           "name": "Formulir",
-          "description": "Formulir permohonan yang sudah diisi.",
-          "channel": "https://t.me/abdionformulir",
+          "description": "Formulir yang didapatkan setelah melakukan pendaftaran di situs resmi rekrutment TNI",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -526,7 +564,7 @@
           "_id": "surat_bebas_covid",
           "name": "Surat Bebas Covid-19",
           "description": "Surat keterangan yang menyatakan bahwa anda bebas dari Covid-19",
-          "channel": "https://t.me/abdionsuratbebascovid",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
@@ -549,7 +587,7 @@
           "_id": "sertifikat_vaksin_covid",
           "name": "Sertifikat Vaksin Covid-19",
           "description": "Sertifikat yang diberikan kepada anda setelah melakukan vaksin Covid-19",
-          "channel": "https://t.me/abdionsertifikatvaksincovid",
+          "channel": "https://t.me/abdionteam",
           "source": "0",
           "status": "0",
           "steps": [
